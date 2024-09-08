@@ -5,4 +5,4 @@ Student at GIET vellore. Pursuing BTech-IT final year.
 
 
 
-**Look for my works here too:  **[kaggle.com/rajannnn](https://www.kaggle.com/rajannnn)
+**Look for my works here too:**  [kaggle.com/rajannnn](https://www.kaggle.com/rajannnn)
