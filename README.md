@@ -1,6 +1,5 @@
-## Rajan N 
-Hi there 👋
-
+# Rajan N 
+Student at GIET vellore. Pursuing BTech-IT final year.
 
 **rajannnnnnn/rajannnnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
