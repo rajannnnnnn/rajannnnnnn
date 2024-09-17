@@ -11,5 +11,5 @@ Applying Multiple Linear Regression to find if students performance is influence
 |power query to dashboard|cleaning to forecasting|DDL to TCL|Simple LR to PCA|
 | [Global Terrorism](https://github.com/rajannnnnnn/PowerBi-GLOBAL_TERRORISM_ANALYSIS) | [Health Care](https://github.com/rajannnnnnn/Excel-HEALTHCARE_DATA_ANALYSIS) | [Customer Churn](https://github.com/rajannnnnnn/Sql-E_COMMERCE_CUSTOMER_CHURN_ANALYSIS)|  [Health Care](https://kaggle.com/code/rajannnn/healthcare-data-analysis)|
 | [Bank Loan](https://github.com/rajannnnnnn/PowerBI-BANK_LOAN_PERFORMANCE_ANALYSIS) ||[Human Resources](https://github.com/rajannnnnnn/Sql-HR_MANAGEMENT) | [Test Score](https://kaggle.com/code/rajannnn/students-performance-analysis) |
-||||[more on kaggle](https://www.kaggle.com/rajannnn)|
+||||[more on kaggle](https://www.kaggle.com/rajannnn/code)|
 
