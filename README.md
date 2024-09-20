@@ -6,7 +6,7 @@ Student at GIET vellore. Pursuing BTech-IT final year.<br>
 Applying Multiple Linear Regression to find if students performance is influenced by these properties "_gender_","_ethnicity_","_parents education_","_lunch_" and "_test preparation_". Here are my findings so far, the above properties influence on their perfomance is significantly low. Maths performance stands out to be not predictable based on other score of skills.
 
 **Skills Demonstrated through projects are here :**
-|PowerBi|Excel|SQL|ML|Others|
+|PowerBi Desktop|MS Excel|SQL|ML|Others|
 |-|-|-|-|-|
 |_:: power query to dashboard_|_:: cleansing to forecasting_|_:: DDL to TCL_|_:: Simple LR to PCA_|_:: Collaborated_|
 | [Global Terrorism](https://github.com/rajannnnnnn/PowerBi-GLOBAL_TERRORISM_ANALYSIS) | [Health Care](https://github.com/rajannnnnnn/Excel-HEALTHCARE_DATA_ANALYSIS) | [Customer Churn](https://github.com/rajannnnnnn/Sql-E_COMMERCE_CUSTOMER_CHURN_ANALYSIS)|  [Health Care](https://kaggle.com/code/rajannnn/healthcare-data-analysis)| [Library Management](https://github.com/rajannnnnnn/Library-Management-and-Attendence-System)|
