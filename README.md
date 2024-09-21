@@ -13,3 +13,5 @@ Applying Multiple Linear Regression to find if students performance is influence
 | [Bank Loan](https://github.com/rajannnnnnn/PowerBI-BANK_LOAN_PERFORMANCE_ANALYSIS) ||[Human Resources](https://github.com/rajannnnnnn/Sql-HR_MANAGEMENT) | [Test Score](https://kaggle.com/code/rajannnn/students-performance-analysis) |[Exam Registraton](https://github.com/rishikannaaa/Exam-Registration)|
 ||||[...more on kaggle](https://www.kaggle.com/rajannnn/code)||
 
+
+<iframe src="https://docs.google.com/document/d/1fj4LvWOfRp7ixW9ytygMj4MZRoTU7vA--meLTUGpKSU/pub?embedded=true"></iframe>
