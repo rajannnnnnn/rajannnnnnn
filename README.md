@@ -3,7 +3,7 @@ Student at GIET vellore. Pursuing BTech-IT final year.<br>
 **fields I am approaching:**  data science, data analytics, machine learning
 <br><br>
 ### Current Project:    [check it out here](https://www.kaggle.com/code/rajannnn/mobile-bill-eda) <br>
-Recently requested past 5 months duplicate Mobile Bills from my Network Manager.<br> As I received, started working on with that dataset, extracting "Voice", "GPRS" and "Recharge Details" which are long enough for Analysis and now doing _Data transformation_ and _Exploratory Data Analysis_.
+Recently requested past 5 months duplicate Mobile Bills from my Network Manager. As I received, started working on with that dataset, extracting "Voice", "GPRS" and "Recharge Details" which are long enough for Analysis and now doing _Data transformation_ and _Exploratory Data Analysis_.
 
 **Skills Demonstrated through projects are here :**
 |PowerBi Desktop|MS Excel|SQL|ML|Others|
