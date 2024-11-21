@@ -4,7 +4,8 @@ Student at GIET vellore. Pursuing BTech-IT final year.<br>
 <br><br>
 ### Current Project:    [check it out here](https://www.kaggle.com/code/rajannnn/mobile-bill-eda) <br>
 Recently requested Exam Results data from our College Exam Cell Manager with permission from the Principal, As the data clensing and modeling are completed, now planning our visuals
-to present it to the principal answering EDA questions, delving the upside and reasoning the downside. With suggestions of academic improvements in terms of Overall Passing and Improving Grades.
+to present it to the principal answering EDA questions, delving the upside and reasoning the downside. With suggestions of academic improvements in terms of Overall Passing and Improving Grades, soon we have everything ready to knock the principal door.
+<br>
 **Skills Demonstrated through projects are here :**
 |PowerBi Desktop|MS Excel|SQL|ML|Others|
 |-|-|-|-|-|
