@@ -12,5 +12,5 @@ to present it to the principal answering EDA questions, delving the upside and r
 |_:: power query to dashboard_|_:: cleansing to forecasting_|_:: DDL to TCL_|_:: Simple LR to PCA_|_:: Collaborated_|
 | [Global Terrorism](https://github.com/rajannnnnnn/PowerBi-GLOBAL_TERRORISM_ANALYSIS) | [Health Care](https://github.com/rajannnnnnn/Excel-HEALTHCARE_DATA_ANALYSIS) | [Customer Churn](https://github.com/rajannnnnnn/Sql-E_COMMERCE_CUSTOMER_CHURN_ANALYSIS)|  [Health Care](https://kaggle.com/code/rajannnn/healthcare-data-analysis)| [Library Management](https://github.com/rajannnnnnn/Library-Management-and-Attendence-System)|
 | [Bank Loan](https://github.com/rajannnnnnn/PowerBI-BANK_LOAN_PERFORMANCE_ANALYSIS) ||[Human Resources](https://github.com/rajannnnnnn/Sql-HR_MANAGEMENT) | [Mobile Bill](https://www.kaggle.com/code/rajannnn/mobile-bill-eda) |[Exam Registraton](https://github.com/rishikannaaa/Exam-Registration)|
-||||[Marketing Campaign](https://colab.research.google.com/drive/1mgu460E4TCN9MHUFFr3P0vGHn-8i3unM?usp=sharing)||
-|[Students Result](https://github.com/rajannnnnnn/PowerBi-UNIVERSITY_EXAM_PERFORMANCE_ANALYSIS/)|||[...more on kaggle](https://www.kaggle.com/rajannnn/code)||
+|[Students Result](https://github.com/rajannnnnnn/PowerBi-UNIVERSITY_EXAM_PERFORMANCE_ANALYSIS/)|||[Marketing Campaign](https://colab.research.google.com/drive/1mgu460E4TCN9MHUFFr3P0vGHn-8i3unM?usp=sharing)||
+||||||
