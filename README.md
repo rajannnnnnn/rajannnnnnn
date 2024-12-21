@@ -2,9 +2,9 @@
 Student at GIET vellore. Pursuing BTech-IT final year.<br>
 **fields I am approaching:**  data science, data analytics, machine learning
 <br><br>
-### Current Project:    [check it out here](https://github.com/rajannnnnnn/PowerBi-UNIVERSITY_EXAM_PERFORMANCE_ANALYSIS) <br>
+<!--### Current Project:    [check it out here](https://github.com/rajannnnnnn/PowerBi-UNIVERSITY_EXAM_PERFORMANCE_ANALYSIS) <br>
 Recently requested Exam Results data from our College Exam Cell Manager with permission from the Principal, As the data clensing and modeling are completed, now planning our visuals
-to present it to the principal answering EDA questions, delving the upside and reasoning the downside. With suggestions of academic improvements in terms of Overall Passing and Improving Grades, soon we will have everything ready to knock on principal's door.
+to present it to the principal answering EDA questions, delving the upside and reasoning the downside. With suggestions of academic improvements in terms of Overall Passing and Improving Grades, soon we will have everything ready to knock on principal's door.-->
 <br><br>
 **Skills Demonstrated through projects are here :**
 |PowerBi Desktop|MS Excel|SQL|ML|Others|
